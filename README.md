@@ -10,14 +10,6 @@
 </div>
 
 
-
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mateusfdev&theme=gotham)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mateusfdev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 <div align="center"> 
 
   ### Main skills:
@@ -40,6 +32,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 </div>
 
+
 <div align="center"> 
   <a href="https://instagram.com/mattflps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/weedz3r4" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -50,3 +43,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mateusfdev&theme=gotham)
