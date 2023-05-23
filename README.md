@@ -44,4 +44,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mateusfdev&theme=gotham)
